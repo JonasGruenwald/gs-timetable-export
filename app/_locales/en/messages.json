@@ -1,0 +1,18 @@
+{
+  "appName": {
+    "message": "Goldsmiths Timetable Export",
+    "description": "The name of the application"
+  },
+  "appShortName": {
+    "message": "gs-tt-exp",
+    "description": "The short_name (maximum of 12 characters recommended) is a short version of the app's name."
+  },
+  "appDescription": {
+    "message": "Export Goldsmiths Timetable to a format usable by common calendar software",
+    "description": "The description of the application"
+  },
+  "browserActionTitle": {
+    "message": "Goldsmiths Timetable Export",
+    "description": "The title of the browser action button"
+  }
+}
