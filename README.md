@@ -6,6 +6,12 @@ Web Extension to export Goldsmiths Timetable to a format usable by all common ca
 
 ![Image of calendar output](./ouput.png)
 
+## Installation
+
+The extension is built and signed for firefox, you can install it [here](https://github.com/JonasGruenwald/gs-timetable-export/releases/download/latest/goldsmiths_timetable_export-0.0.0-fx.xpi).
+
+If you need it for a different browser, you will have to build from source, but I can't guarantee it will work as I've only used it on Firefox.
+
 ## Usage
 
 Navigate to any timetable and display it using 'Single Week View' (not the default 'Grid View').
@@ -23,7 +29,7 @@ iCal files can be imported into pretty much any calendar software or service (Go
 
 Keep in mind the export logic is pretty rough and may break at any point.
 
-## Install
+## Setup
 
 	$ npm install
 
